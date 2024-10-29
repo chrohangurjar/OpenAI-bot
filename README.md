@@ -3,7 +3,7 @@
 
 # 🤖 OpenAI Chatbot Project
 
-Welcome to the **OpenAI Chatbot** project! This chatbot leverages OpenAI's language models to create an interactive conversational assistant that can handle a wide range of queries, from casual conversation to technical support. Built using Python, this project demonstrates how to integrate OpenAI's API to create powerful chat experiences.
+**Welcome to the **OpenAI Chatbot** project! This chatbot leverages OpenAI's language models to create an interactive conversational assistant that can handle a wide range of queries, from casual conversation to technical support. Built using Python, this project demonstrates how to integrate OpenAI's API to create powerful chat experiences.**
 ---
 ## 🌟 Features
 - **Conversational AI**: Supports natural, dynamic conversation flows.
@@ -14,7 +14,7 @@ Welcome to the **OpenAI Chatbot** project! This chatbot leverages OpenAI's langu
   ---
 ## 📸 Demo
 
-![Demo of School Management App](boot.png)  
+![Demo of OpenAI bot](bot.png)  
 *Experience how it work!*
 
 ## 🚀 Getting Started
