@@ -11,6 +11,12 @@ Welcome to the **OpenAI Chatbot** project! This chatbot leverages OpenAI's langu
 - **Easy Setup**: Simple installation and configuration for rapid deployment.
 - **Extensible**: Built with a modular design, allowing easy customization and feature addition.
 
+  
+## 📸 Demo
+
+![Demo of School Management App](boot.png)  
+*Experience how it work!*
+
 ## 🚀 Getting Started
 
 ### Prerequisites
