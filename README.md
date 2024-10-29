@@ -13,9 +13,9 @@
 - **Extensible**: Built with a modular design, allowing easy customization and feature addition.
 
   ---
-## 📸 Demo
+## 📸 AI
 
-![Demo of OpenAI bot](bot.png)  
+![Demo of OpenAI bot](bot.jpeg)  
 *Experience how it work!*
 
 ## 🚀 Getting Started
