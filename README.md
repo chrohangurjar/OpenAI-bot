@@ -95,7 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 ## 🌐 Connect with Us
 Follow us on:
-- **Twitter**: [@YourHandle](https://twitter.com/yourhandle)
+- **Twitter**: [@Rohan Naagar](https://twitter.com/yourhandle)
 - **LinkedIn**: [Rohan Naagar]((https://www.linkedin.com/in/rohan-naagar-779310322/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbpHFgJ3T4mafZrBEG1aQA%3D%3D)](https://www.linkedin.com/in/rohan-naagar-779310322/))
 
 ---
