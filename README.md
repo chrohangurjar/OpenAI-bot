@@ -94,6 +94,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **OpenAI**: For their powerful APIs and support for AI research.
 - **Python Community**: For making coding accessible and fun.
 ---
+## 🌟 Contributors
+
+We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make this app better every day. 💪
+
+<a href="https://github.com/chrohangurjar1/RustWeatherApp/graphs/contributors">
+  <img alt="RustWeatherApp contributors" height='48' src="https://contrib.rocks/image?repo=chrohangurjar1/RustWeatherApp&columns=24" />
+</a>
+
+🎉 Thank you all for your amazing contributions! Let's keep building together. 🚀
+---
 ## 🌐 Connect with Us
 Follow us on:
 - **Twitter**: [@Rohan Naagar](https://twitter.com/yourhandle)
