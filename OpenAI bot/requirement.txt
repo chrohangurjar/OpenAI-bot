@@ -1,2 +1,0 @@
-openai==1.52.2        # Latest OpenAI API package
-python-dotenv==1.0.0  # For loading environment variables
